@@ -1,0 +1,183 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .main {
+    background-color: red!important;
+} */
+
+
+body {
+    background-color: rgba(194, 175, 153, 0.17)!important;
+}
+
+.product-desc {
+    margin-top: -10px !important;
+    font-size: 15px;
+    
+}
+
+/* .product-box {
+    width: 156px !important;
+    height: 197px !important;
+} */
+
+.product-box {
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.mobile-name {
+    text-decoration: none;
+    font-size: 13px!important;
+}
+
+.stores-size {
+    /* word-spacing: 10px !important; */
+    font-size: 12px !important; 
+    margin: 3px;
+    text-align: center;
+}
+
+.storedetails {
+    margin-bottom: -8px;
+}
+
+a {
+    word-wrap: none;
+}
+
+.card-img-top {
+    padding: 10px;
+}
+
+.section-two {
+    margin-top: 100px;
+    border-bottom: 1px solid black;       
+}
+
+.card-body {
+    margin-bottom: 100px;
+    padding: 1000px;
+}
+
+.card {
+    height: 350px;
+    /* margin-bottom: 20px; */  
+}
+
+/* .product-image {
+    border-bottom: 2px solid black;
+    position: relative;
+    padding: 30px;
+} */
+
+.info {
+    font-size: 1rem;
+    padding: 10px;
+}
+
+li {
+    text-decoration: none;
+    list-style-type: none!important;
+}
+
+a {
+    text-decoration: none!important;
+}
+
+/* .navigation-new {
+    margin-bottom: 1000px!important;
+} */
+
+.footer-info {
+    margin-top: -15px;
+}
+
+.footer-desc a:hover {
+    color: black !important;   
+}
+
+.last-footer {
+    font-size: 13px;
+}
+.span-1{
+    display: flex;
+    gap: 20px;
+    
+}
+.h2-1{
+    font-weight: bold !important;
+    font-size: 0.5cm !important;
+}
+.span-1of2
+{
+    justify-content: center;
+    align-items: center;
+    
+}
+.h2-2{
+    text-decoration: underline;
+    text-decoration-color: red;
+    padding-bottom: 300px;
+}
+.h2-3{
+    text-decoration: underline;
+    text-decoration-color: red;
+    padding-bottom: 10px;
+}
+.icon-1{
+    padding-right: 3px;
+    /* padding-bottom: 1px; */
+}
+.l-price{
+font-size: 20px;
+font-weight: bold;
+letter-spacing: -1px;
+color: #19ff2c;
+margin-bottom: 20px;
+}
+.h-price{
+font-size: 20px;
+font-weight: bold;
+letter-spacing: -1px;
+color: #1944bb;
+margin-bottom: 20px;
+}
+table{
+    width: 100%;
+}
+td {
+    border:1px solid rgb(16, 2, 139) !important;
+    
+}
+th{
+    border:1px solid rgb(16, 2, 139) !important;
+    width: 104px !important;
+    color: rgb(209, 171, 3);
+}
+.sub-container-1{
+    display: flex !important;
+}
+.right-container{
+    background-color: #ced3e2;
+    height: 465vh;
+    margin-top: 7px;
+    width: 280px;
+    border: black;
+}
+.carousel-item{
+    height: 400px;
+    width: 300px !important;
+    align-items: center !important;
+    margin-left: 100px !important;
+}
+
+.btn {
+    color: black !important; 
+    background-color: orange !important;
+}   
+
+.navbar-brand{
+    color: orange !important;
+}
